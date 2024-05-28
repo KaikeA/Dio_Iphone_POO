@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\kaike\OneDrive\Área de Trabalho\iphone dio\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+230639225.index
+1373574676.index

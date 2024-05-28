@@ -1,0 +1,13 @@
+package iphoneuser;
+
+import appmusic.ReprodutorMusic;
+
+public class Usuario {
+
+	public static void main(String[] args) {
+	ReprodutorMusic iphoneKaike = new ReprodutorMusic();
+	
+	iphoneKaike.tocar();
+	}
+
+}
